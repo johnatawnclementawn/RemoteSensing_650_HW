@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Data folder - data are accessible at https://www.kaggle.com/rhammell/planesnet
+**/data/
